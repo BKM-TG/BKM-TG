@@ -4,7 +4,7 @@
 <b><p align="center">💻 Tᴇᴄʜ Sᴛᴀᴄᴋ</p></b>
 <p align="center"><img 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Koyeb](https://img.shields.io/badge/koyeb-%23430098.svg?style=for-the-badge&logo=koyeb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Koyeb](https://img.shields.io/badge/koyeb-%23430098.svg?style=for-the-badge&logo=koyeb&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 <div align="center">
 <b><p align="center">📊 GɪᴛHᴜʙ Sᴛᴀᴛs</p></b>
