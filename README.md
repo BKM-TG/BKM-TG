@@ -24,8 +24,9 @@ src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&
 </div>
 
 <div align="center">
-  <b><p align="center">🌐 Social</p></b>
+  <b><p align="center">🌐 Socials</p></b>
   <p align="center">
-    <a href="mailto:maitybikash565@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+    <a href="https://facebook.com/maity.speaking"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
+    <a href="https://instagram.com/maity.speaking"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
   </p>
 </div>
