@@ -22,11 +22,3 @@ src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BKM-TG&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center">
   </p>
 </div>
-
-<div align="center">
-  <b><p align="center">🌐 Socials</p></b>
-  <p align="center">
-    <a href="https://facebook.com/maity.speaking"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
-    <a href="https://instagram.com/maity.speaking"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-  </p>
-</div>
